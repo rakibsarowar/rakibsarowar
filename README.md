@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @rakibsarowar<br>- 👀 I’m interested in Web Development & Graphic Design.<br>- 🌱 I’m currently learning React, Redux and so on.<br>- 📫 You can reach me in linkedin @rakibsarowar or rakibsarowar@gmail.com
+- 👋 Hi, I’m @rakibsarowar<br>- 👀 I’m interested in Web Development & Design.<br>- 🌱 I’m currently learning React, Redux and so on.<br>- 📫 You can reach me in linkedin @rakibsarowar or rakibsarowar@gmail.com
 
 
 ## 🌐 Socials:
