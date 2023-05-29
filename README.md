@@ -49,9 +49,6 @@
 ## 🐦 Latest Tweet
 [<p align="center"><img src="https://gtce.itsvg.in/api?username=rakibsarowar">](https://twitter.com/rakibsarowar)</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 <p align="center">
   <img width="30%" src="https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=2"/> <br/>
