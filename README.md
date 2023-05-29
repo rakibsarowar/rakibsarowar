@@ -3,10 +3,15 @@
 
 
 ## 🌐 Socials:
+[
 <p align="center">
-[<img height="75" src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white">](https://behance.net/rakibsarowar)
- [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)
-</p>
+ <img height="75" src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white">](https://www.linkedin.com/in/mirhussainmurtaza/)
+  
+ [<img height="75" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">](https://www.facebook.com/mirhussainmurtaza)
+  
+ [<img height="75" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"> </p>](https://twitter.com/_mir_hussain_)
+
+<br />
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rakibsarowar) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibsarowar) 
