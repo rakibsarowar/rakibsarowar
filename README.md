@@ -1,3 +1,7 @@
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
+
 # 💫 About Me:
 - 👋 Hello! there, This is @rakibsarowar<br>- 👀 I’m interested in Web Development & Design.<br>- 🌱 I’m currently learning React, Redux, Vue and so on.<br>- 📫 You can reach me in linkedin @rakibsarowar or rakibsarowar@gmail.com
 
