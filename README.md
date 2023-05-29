@@ -50,7 +50,7 @@
 
 ---
 <p align="center">
-  [<img width="60%" src="https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=2"/>] (https://visitcount.itsvg.in) <br/>
+  <img width="30%" src="https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=2"/>(https://visitcount.itsvg.in) <br/>
 </p>
 
 
