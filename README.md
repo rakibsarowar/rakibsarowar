@@ -49,7 +49,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[<p align="center"><img width="60%" src="https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=2)">](https://visitcount.itsvg.in)</p>
+[<p align="center">[<img width="60%" src="https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=2)">](https://visitcount.itsvg.in)</p>
 
 [![](https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=2)](https://visitcount.itsvg.in)
 
