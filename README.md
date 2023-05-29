@@ -11,11 +11,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /> <br/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=dark&hide_border=true" /> <br/>
+  <img width="60%" src="[https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)" />
 </p>
 
 ## 🏆 GitHub Trophies
