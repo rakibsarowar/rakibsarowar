@@ -5,6 +5,7 @@
 ## 🌐 Socials:
 <p align="center">
 [<img height="75" src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white">](https://behance.net/rakibsarowar)
+ [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)
 </p>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rakibsarowar) 
