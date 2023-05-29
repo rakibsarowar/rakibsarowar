@@ -43,7 +43,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rakibsarowar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[<p align="center"><img src="https://gtce.itsvg.in/api?username=rakibsarowar">](https://twitter.com/rakibsarowar)</p>]
+[<p align="center"><img src="https://gtce.itsvg.in/api?username=rakibsarowar">(https://twitter.com/rakibsarowar)</p>]
 <br />
 
 [![](https://gtce.itsvg.in/api?username=rakibsarowar)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
