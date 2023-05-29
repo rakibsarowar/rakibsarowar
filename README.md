@@ -13,6 +13,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakibsarowar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
