@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-<h2>A passionate Web developer from Dhaka Bangladesh.</h2>
+A passionate Web developer from Dhaka Bangladesh.
 </p>
 
 <div align=center>
