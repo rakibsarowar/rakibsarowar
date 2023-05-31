@@ -2,6 +2,7 @@
 <img src="https://images.unsplash.com/photo-1624377632657-3902bfd35958?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" />
 </a>
 
+<h1>Hello there! 👋, This is Rakib Sarowar </h1>
 ---
 
 <div align=center>
@@ -9,7 +10,8 @@
 </div>
 
 # 💫 About Me:
-- 👋 Hello! there, This is @rakibsarowar<br>- 👀 I’m interested in Web Development & Design.<br>- 🌱 I’m currently learning React, Redux, Vue and so on.<br>- 📫 You can reach me in linkedin @rakibsarowar or rakibsarowar@gmail.com
+- 👋 Hello! there, This is @rakibsarowar
+- <br>- 👀 I’m interested in Web Development & Design.<br>- 🌱 I’m currently learning React, Redux, Vue and so on.<br>- 📫 You can reach me in linkedin @rakibsarowar or rakibsarowar@gmail.com
 
 
 ## 🌐 Socials:
