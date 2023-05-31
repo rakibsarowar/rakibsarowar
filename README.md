@@ -10,13 +10,18 @@
 A passionate Web developer from Dhaka Bangladesh.
 </p>
 
+Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong knowledge of JavaScript, Es6, React , Express, MongoDB. I seek out new knowledge and technology and actively develop my skills.
+<br>- 👀 I’m interested in Web Development & Design.<br>
+- 🌱 I’m currently learning React, Redux, Vue and so on.<br>
+- 📫 You can reach me in linkedin @rakibsarowar or rakibsarowar@gmail.com
+
 <div align=center>
 <a href="https://app.daily.dev/rakibsarowar"><img src="https://api.daily.dev/devcards/a71be58fa5a64d3ca6b9d9509621f94a.png?r=zsp" width="300" alt="Md. Rakib Sarowar's Dev Card"/></a>
 </div>
 
 # 💫 About Me:
 - 👋 Hello! there, This is @rakibsarowar
-- <br>- 👀 I’m interested in Web Development & Design.<br>- 🌱 I’m currently learning React, Redux, Vue and so on.<br>- 📫 You can reach me in linkedin @rakibsarowar or rakibsarowar@gmail.com
+
 
 
 ## 🌐 Socials:
