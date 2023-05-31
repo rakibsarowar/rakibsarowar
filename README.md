@@ -20,11 +20,6 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 <a href="https://app.daily.dev/rakibsarowar"><img src="https://api.daily.dev/devcards/a71be58fa5a64d3ca6b9d9509621f94a.png?r=zsp" width="300" alt="Md. Rakib Sarowar's Dev Card"/></a>
 </div>
 
-# 💫 About Me:
-- 👋 Hello! there, This is @rakibsarowar
-
-
-
 ## 🌐 Socials:
 <br />
 
