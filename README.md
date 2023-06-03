@@ -75,4 +75,7 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 <p align="center">
   <img width="30%" src="https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=2"/> <br/>
 </p>
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
