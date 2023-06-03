@@ -34,12 +34,6 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 </a>  
 </p>
 
-
-[<p align="center">
-  <img height="30" src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white">](https://behance.net/rakibsarowar) [<img height="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">](https://linkedin.com/in/rakibsarowar) [<img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"> 
-</p>](https://twitter.com/rakibsarowar)
-<br />
-
 # 💻 Tech Stack:
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
