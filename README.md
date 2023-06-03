@@ -77,5 +77,13 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 </p>
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+  
+
+<br/>  
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
