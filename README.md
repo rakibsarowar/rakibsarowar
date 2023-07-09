@@ -73,6 +73,7 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 ## 🏆 GitHub Trophies
 <p align="center">
 ![](https://github-profile-trophy.vercel.app/?username=rakibsarowar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <img width="40%" src="https://github-profile-trophy.vercel.app/?username=rakibsarowar&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
