@@ -76,9 +76,9 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 </p>
 
 ---
-<p align="center">
+<div align="center">
   <img width="30%" src="https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=2"/> <br/>
-</p>
+</div>
 
 ---
 
