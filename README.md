@@ -40,6 +40,7 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 </p>
 
 # 💻 Tech Stack:
+<br />
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -64,6 +65,7 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 <br/>
 
 # 📊 GitHub Stats:
+<br />
 <p align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false" /> <br/> 
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=great-gatsby&hide_border=true" /> <br/>
@@ -71,14 +73,17 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 <p>
 
 ## 🏆 GitHub Trophies
+<br />
 <p align="center">
  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rakibsarowar&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" />
 <p>
 
 
 ---
+<br />
 <div align="center">
   <img width="30%" src="https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=2"/> <br/>
 </div>
+<br />
 
 ---
