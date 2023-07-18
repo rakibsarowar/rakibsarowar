@@ -1,15 +1,3 @@
-<!-- Add a dark mode simulation -->
-<div align="center">
-  <img src="https://img.shields.io/badge/dark%20mode-%23000000.svg?style=for-the-badge&logoColor=white" alt="Dark Mode" />
-</div>
-
-<div align="center">
-  <h1>Hello there! 👋, This is Md. Rakib Sarowar</h1>
-</div>
-
-<!-- Rest of your README content with dark-themed styles -->
-
-
 
 <a href="https://www.facebook.com/mirhussainmurtaza/">
 <img height="450"  width="100%"  src="https://images.unsplash.com/photo-1624377632657-3902bfd35958?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" />
