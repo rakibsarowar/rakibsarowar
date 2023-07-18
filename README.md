@@ -19,7 +19,7 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 
 - 👀 I’m interested in Web Development.<br>
 - 🌱 I’m currently learning Redux, Next and Vue Js.<br>
-- 📫 You can reach me in LinkedIn(rakibsarowar) or rakibsarowar@gmail.com
+- 📫 You can reach me in LinkedIn(as same name) or rakibsarowar@gmail.com
 
 <div align=center>
 <a href="https://app.daily.dev/rakibsarowar"><img src="https://api.daily.dev/devcards/a71be58fa5a64d3ca6b9d9509621f94a.png?r=zsp" width="300" alt="Md. Rakib Sarowar's Dev Card"/></a>
@@ -28,7 +28,7 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 # 🌐 Socials:
 <br />
 <p align="center">
-<a href="https://twitter.com/rakibsarowar" target="_blank">
+<a href="https://twitter.com/rakibsarowar" target="_blank rel="noopener noreferrer"">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/rakibsarowar" target="_blank">
