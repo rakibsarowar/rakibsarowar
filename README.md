@@ -91,8 +91,4 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakibsarowar&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rakibsarowar&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=11)](https://visitcount.itsvg.in)
