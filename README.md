@@ -75,20 +75,23 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rakibsarowar&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
+// -----------------------------------------------------------------
+# 📊 GitHub Stats:
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false" /> <br/> 
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=great-gatsby&hide_border=true" /> <br/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+ <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rakibsarowar&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" />
+<p>
+
+
 ---
 <div align="center">
   <img width="30%" src="https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=2"/> <br/>
 </div>
 
 ---
-
-<!-- Proudly created  ( https://gprm.itsvg.in ) -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=great-gatsby&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rakibsarowar&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
-
-
