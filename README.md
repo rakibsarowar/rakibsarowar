@@ -69,7 +69,7 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 <p align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false" /> <br/> 
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=great-gatsby&hide_border=true" /> <br/>
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 <p>
 
 ## 🏆 GitHub Trophies
