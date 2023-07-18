@@ -65,19 +65,6 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /> <br/>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=dark&hide_border=true" /> <br/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rakibsarowar&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
-// -----------------------------------------------------------------
-# 📊 GitHub Stats:
-<p align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false" /> <br/> 
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=great-gatsby&hide_border=true" /> <br/>
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
