@@ -19,7 +19,7 @@ A passionate Web Developer from Gazipur, Bangladesh.
 Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong knowledge of JavaScript, React , Express, MongoDB. I seek out new knowledge and technology and actively develop my skills.
 
 - 👀 I’m interested in Web Development.<br>
-- 🌱 I’m currently learning Redux, Next and Vue Js.<br>
+- 🌱 I’m currently learning Redux.js, Next.js and Vue Js.<br>
 - 📫 You can reach me in LinkedIn(as same name) or rakibsarowar@gmail.com
 
 <div align=center>
