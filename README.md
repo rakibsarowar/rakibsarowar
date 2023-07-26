@@ -13,7 +13,7 @@
 
 ###
 <p align="center">
-A passionate Web Developer from Gazipur, Bangladesh.
+A passionate Web Developer from Gazipur, Dhaka, Bangladesh.
 </p>
 
 Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong knowledge of JavaScript, React.js , Express, MongoDB. I usually seek out new knowledge and technology and actively develop my skills.
