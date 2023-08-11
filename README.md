@@ -16,7 +16,7 @@
 A passionate Web Developer from Gazipur, Bangladesh.
 </p>
 
-Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong knowledge of JavaScript, React.js , Express, MongoDB. I usually seek out new knowledge and technology and actively develop my skills.
+Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with strong knowledge of JavaScript, React.js, Vue.js, Express, MongoDB. I usually seek out new knowledge and technology and actively develop my skills.
 
 - 👀 I’m interested in Web Development.<br>
 - 🌱 I’m currently learning Redux.js, Next.js and Vue Js.<br>
