@@ -7,7 +7,6 @@
 
 <div align=center>
 <h1> Hello there! 👋, This is Md. Rakib Sarowar </h1>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F69D&multiline=true&width=550&lines=+I+am+an+aspiring+MERN+%26+MEVN+Stack+Developer+!)](https://git.io/typing-svg)
 </div>
 
