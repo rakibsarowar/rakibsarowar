@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 20 * * *" # Set the schedule to 8:00 PM local time
+   - cron: "55 8 * * *" # Set the schedule to 8:55 AM local time
 
 jobs:
   build:
