@@ -77,7 +77,7 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 <p>
 
-## 🏆 GitHub Trophies:
+## 🏆 My GitHub Trophies:
 <br />
 <p align="center">
  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rakibsarowar&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" />
