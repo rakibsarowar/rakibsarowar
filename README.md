@@ -69,7 +69,7 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 </p>
 <br/>
 
-# 📊 GitHub Stats:
+# 📊 My GitHub Stats:
 <br />
 <p align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false" /> <br/> 
