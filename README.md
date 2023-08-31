@@ -44,7 +44,7 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 </a>  
 </p>
 
-# 💻 My Tech Stack:
+# 💻 Tech Stack:
 <br />
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
