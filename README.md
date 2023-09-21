@@ -91,9 +91,6 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <div align="center">
   <img width="30%" src="https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=2"/> <br/>
   
-  
-<a href="https://info.flagcounter.com/PbAW"><img src="https://s01.flagcounter.com/count2/PbAW/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_50/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-  
 <br />
 </div>
 <br />
