@@ -5,7 +5,7 @@
 </a>
 
 <div align=center>
-<h1> Hi there! 👋, This is Md. Rakib Sarowar </h1>
+<h1> Hi there! 👋, This is Rakib Sarowar </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=4000&color=ffa726&width=485&lines=+I+am+an+aspiring+MERN+%26+MEVN+Stack+Developer.)](https://git.io/typing-svg)
 </div>
