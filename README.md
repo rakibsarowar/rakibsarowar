@@ -29,7 +29,7 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <a href="https://app.daily.dev/rakibsarowar"><img src="https://api.daily.dev/devcards/a71be58fa5a64d3ca6b9d9509621f94a.png?r=zsp" width="300" alt="Md. Rakib Sarowar's Dev Card"/></a>
 </div>
 
-# 🌐 Let's Connect:
+## 🌐 Let's Connect:
 <br />
 <p align="center">
 <a href="https://twitter.com/rakibsarowar" target="_blank rel="noopener noreferrer"">
@@ -43,7 +43,7 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 </a>  
 </p>
 
-# 💻 My Tech Stack:
+## 💻 My Tech Stack:
 <br />
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -68,26 +68,24 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 </p>
 <br/>
 
-# 📊 My GitHub Stats:
+## 📊 My GitHub Stats:
 <br />
-<div align="center">
-
-  
+<p align="center">
 ![rakibsarowar's Stats](https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true) <br>
 ![rakibsarowar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=vision-friendly-dark&hide_border=true) <br>
 ![rakibsarowar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
-</div>
+</p>
 
 ## 🏆 My GitHub Trophies:
 <br />
 <br />
 <p align="center">
  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rakibsarowar&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" />
-<p>
+</p>
 
 <br/>
 
-# 📊 A View of GitHub Contribution:
+## 📊 A View of GitHub Contribution:
 <br />
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
