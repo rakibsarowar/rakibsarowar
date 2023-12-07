@@ -41,6 +41,8 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <a href="https://www.behance.net/rakibsarowar" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
+
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rakibsarowar&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 # 💻 My Tech Stack:
