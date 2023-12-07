@@ -76,6 +76,8 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /> <br>
   
 ![rakibsarowar's Stats](https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+![rakibsarowar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=vision-friendly-dark&hide_border=true)
+![rakibsarowar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ## 🏆 My GitHub Trophies:
