@@ -97,6 +97,3 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <br />
 </div>
 <br />
-
-
-![](assets/Bottom_down.svg)
