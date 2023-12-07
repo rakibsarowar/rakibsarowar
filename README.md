@@ -95,5 +95,9 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
   <img width="30%" src="https://visitcount.itsvg.in/api?id=rakibsarowar&icon=5&color=2"/> <br/>
   
 <br />
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=rakibsarowar&label=Profile%20Views&color=11&pretty=false" />
+</a>
+
 </div>
 <br />
