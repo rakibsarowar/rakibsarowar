@@ -41,8 +41,6 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <a href="https://www.behance.net/rakibsarowar" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
-
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rakibsarowar&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 # 💻 My Tech Stack:
@@ -74,8 +72,10 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <br />
 <p align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false" /> <br/> 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=great-gatsby&hide_border=true" /> <br/>
+
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rakibsarowar&theme=dark" alt="GitHub Streak" /></a>
 <p>
 
 ## 🏆 My GitHub Trophies:
