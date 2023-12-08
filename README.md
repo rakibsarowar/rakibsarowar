@@ -86,7 +86,7 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 
 <br/>
 
-## 📊 A View of GitHub Contribution:
+## 🔮 A View of GitHub Contribution:
 <br />
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
