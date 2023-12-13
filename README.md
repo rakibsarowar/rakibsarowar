@@ -2,7 +2,7 @@
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
+${{\color{DarkMagenta}\Huge{\textsf{  Hi\ there\ \}}}}\$
 
 
 
