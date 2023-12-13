@@ -76,7 +76,8 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 
 ## 📊 My GitHub Stats:
 
-## <span style="color:purple;">📊 My GitHub Stats:</span>
+## :purple_heart: My GitHub Stats:
+
 
 <br />
 <p align="center">
