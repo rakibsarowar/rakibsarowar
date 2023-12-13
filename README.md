@@ -1,10 +1,5 @@
- 
 [comment]: <> ( $${\color{red}Red}$$ )
-
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
-
-## ${{\color{DarkMagenta}\Huge{\textsf{  Hi\ there\ \}}}}\$
-
+[comment]: <> ( $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ )
 
 
 <a href="https://www.facebook.com/rakibsarowar01/">
@@ -36,7 +31,9 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <a href="https://app.daily.dev/rakibsarowar"><img src="https://api.daily.dev/devcards/a71be58fa5a64d3ca6b9d9509621f94a.png?r=zsp" width="300" alt="Md. Rakib Sarowar's Dev Card"/></a>
 </div>
 
-## 🌐 Let's Connect:
+
+## ${{\color{DarkMagenta}\Huge{\textsf{  🌐\ LET'S\ CONNECT\ \}}}}\$
+
 <br />
 <p align="center">
 <a href="https://twitter.com/rakibsarowar" target="_blank rel="noopener noreferrer"">
