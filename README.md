@@ -2,7 +2,7 @@
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-$${\color{red}[abc\]\(https://google.fr)}$$
+${\color{red}[abc\]\(https://google.fr)}$
 
 <h1 style="color: red">text</h1>
 
