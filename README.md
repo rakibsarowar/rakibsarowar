@@ -75,6 +75,9 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <br/>
 
 ## 📊 My GitHub Stats:
+
+## <span style="color:purple;">📊 My GitHub Stats:</span>
+
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/> </br>
