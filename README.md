@@ -81,7 +81,7 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <br />
 <br />
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakibsarowar" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rakibsarowar&row=2&column=3" />
 </p>
 
 <br/>
