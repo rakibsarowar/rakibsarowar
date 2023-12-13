@@ -2,9 +2,8 @@
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-#0f0[This is green text]
+${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
 
-#7fffff00[This is yellow text at 50% opacity]
 
 
 <a href="https://www.facebook.com/rakibsarowar01/">
