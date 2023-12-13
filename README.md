@@ -2,9 +2,10 @@
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-${\color{red}[abc\]\(https://google.fr)}$
+#0f0[This is green text]
 
-<h1 style="color: red">text</h1>
+#7fffff00[This is yellow text at 50% opacity]
+
 
 <a href="https://www.facebook.com/rakibsarowar01/">
 <img height="450"  width="100%"  src="https://images.unsplash.com/photo-1624377632657-3902bfd35958?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" />
