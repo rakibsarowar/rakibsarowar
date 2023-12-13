@@ -94,10 +94,8 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <br />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakibsarowar&style=for-the-badge&color=blueviolet&base=2000" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rakibsarowar&style=for-the-badge&color=blueviolet&base=2240" alt="Profile Views" />
 </p>
-
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=rakibsarowar&style=for-the-badge&color=blueviolet&base=2000)
