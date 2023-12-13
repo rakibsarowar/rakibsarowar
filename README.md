@@ -30,7 +30,7 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <div align=center>
 <a href="https://app.daily.dev/rakibsarowar"><img src="https://api.daily.dev/devcards/a71be58fa5a64d3ca6b9d9509621f94a.png?r=zsp" width="300" alt="Md. Rakib Sarowar's Dev Card"/></a>
 </div>
-
+<br>
 
 ## ${{\color{DarkMagenta}\Huge{\textsf{  🌐\ LET'S\ CONNECT\ \}}}}\$
 
@@ -49,7 +49,8 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
   https://img.shields.io/badge/just%40the%40message-8A2BE2
 </p>
 
-## 💻 My Tech Stack:
+## ${{\color{DarkMagenta}\Huge{\textsf{  💻\ MY\ TECH\ STACK\ \}}}}\$
+
 <br />
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
