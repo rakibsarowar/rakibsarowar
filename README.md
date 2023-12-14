@@ -38,8 +38,6 @@
 <div align="center">
   <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/018c678e-087a-4b28-9edf-f465885d1b83.svg"/>
   <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/rakibsarowar?label=Followed+By&labelColor=1a0445&color=f1e05a"/>
-
-  [![wakatime](https://wakatime.com/badge/user/018c678e-087a-4b28-9edf-f465885d1b83.svg?labelColor=1a0445&color=f1e05a)](https://wakatime.com/@018c678e-087a-4b28-9edf-f465885d1b83)
  <!-- <a style="margin-right: 6px" href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
     <img loading="lazy" alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round&color=00B8B5" />
   </a> -->
