@@ -1,3 +1,49 @@
+    Contact    : rakibsarowar@gmail.com
+
+    -----------------------------------------------------------------------
+    -----------------------------------------------------------------------
+    
+    Thank you if you like this profile README!
+
+    BUT, please DO NOT copy this and create your profile based on it.
+    You can use it as a reference, and copy a part of it, but DO NOT copy
+    all of this and create your profile based on it.
+
+    It is very common that you forget to change some information and leave
+    mine in your profile.
+
+    Only when you know what you are copying should you paste it. So, again,
+    please DO NOT copy this and create your profile based on it.
+
+    ---------------------------------------------------------------------
+
+    What's more, you can find other awesome profile READMEs at
+    https://github.com/abhisheknaiidu/awesome-github-profile-readme.
+    There could be a profile README that fits you better than this one.
+
+    ---------------------------------------------------------------------
+    
+    Wish you a good-looking profile README!
+
+                                —— rakib S. (https://github.com/rakibsarowar)
+-->
+
+<br/>
+
+<!-- about repository badges start -->
+<div align="center">
+  <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg"/>
+  <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/rakibsarowar?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
+  
+ <!-- <a style="margin-right: 6px" href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
+    <img loading="lazy" alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round&color=00B8B5" />
+  </a> -->
+  <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
+</div>
+<!-- about repository badges end -->
+
+
+
 <a href="https://www.facebook.com/rakibsarowar01/">
 <img height="450"  width="100%"  src="https://images.unsplash.com/photo-1624377632657-3902bfd35958?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" />
 </a>
