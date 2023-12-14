@@ -36,7 +36,7 @@
 
 <!-- about repository badges start -->
 <div align="center">
-  <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg"/>
+  <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/018c678e-087a-4b28-9edf-f465885d1b83.svg"/>
   <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/rakibsarowar?label=Followed+By&labelColor=1a0445&color=f1e05a"/>
   
  <!-- <a style="margin-right: 6px" href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
