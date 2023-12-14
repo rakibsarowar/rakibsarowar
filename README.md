@@ -5,7 +5,7 @@
 <div align=center>
 <h1> Hi there! 👋, This is Rakib Sarowar </h1>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro&size=14&duration=3000&pause=4000&color=7F3ACE&random=false&width=435&lines=I+am+an+aspiring+MERN+%26+MEVN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro&size=18&duration=3000&pause=4000&color=7F3ACE&random=false&width=435&lines=I+am+an+aspiring+MERN+%26+MEVN+Stack+Developer)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
