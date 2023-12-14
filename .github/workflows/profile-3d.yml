@@ -1,23 +1,37 @@
-name: GitHub-Profile-3D-Contrib
+name: generate 3d chart for profile contributions
 
 on:
+  # run automatically every 24 hours
   schedule:
-   - cron: "55 8 * * *" # Set the schedule to 8:55 AM local time
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the main branch
+  # don't forget to change if you're using 'master' branch
+  push:
+    branches:
+    - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ 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 }}
-          USERNAME: rakibsarowar # Your GitHub username
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+          GITHUB_TOKEN: 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
+          USERNAME: rakibsarowar
+          SETTING_JSON: conf/github-profile-3d-contrib.json
+          
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push SVGs to the output-3d branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-3d-contrib
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: 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

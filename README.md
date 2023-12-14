@@ -34,6 +34,15 @@
 
 <br/>
 
+<a href="https://www.facebook.com/rakibsarowar01/">
+<img height="450"  width="100%"  src="https://images.unsplash.com/photo-1624377632657-3902bfd35958?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" />
+</a>
+
+<div align=center>
+<br>
+
+<h1> Hi there! 👋, This is Rakib Sarowar <br/> 
+<span> 
 <!-- about repository badges start -->
 <div align="center">
   <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/018c678e-087a-4b28-9edf-f465885d1b83.svg"/>
@@ -44,16 +53,8 @@
   <img loading="lazy" style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
 <!-- about repository badges end -->
+</span> </h1>
 
-
-
-<a href="https://www.facebook.com/rakibsarowar01/">
-<img height="450"  width="100%"  src="https://images.unsplash.com/photo-1624377632657-3902bfd35958?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" />
-</a>
-
-<div align=center>
-<h1> Hi there! 👋, This is Rakib Sarowar </h1>
- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro&size=14&duration=3000&pause=4000&color=7F3ACE&center=true&random=false&width=435&lines=I+am+an+aspiring+MERN+%26+MEVN+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
