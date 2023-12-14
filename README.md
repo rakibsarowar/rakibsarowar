@@ -78,7 +78,11 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 </p>
 <br/>
 
-## 📊 My GitHub Stats:
+<!-- Heading text start -->
+<div align="left">
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=25&pause=&color=7F3ACE&repeat=false&random=false&width=435&lines=MY+GITHUB+STATS%3A" alt="Let's connect svg" />
+</div>
+<!-- Heading text end -->
 
 <br />
 <p align="center">
@@ -88,7 +92,11 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibsarowar&bg_color=000000&color=6014be&line=6014bd&point=ffffff&area=true&hide_border=true"/> <br>
 </p>
 
-## 🏆 My GitHub Trophies:
+<!-- Heading text start -->
+<div align="left">
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=25&pause=&color=7F3ACE&repeat=false&random=false&width=435&lines=MY+GITHUB+TROPHIES%3A" alt="Let's connect svg" />
+</div>
+<!-- Heading text end -->
 <br />
 <br />
 <p align="center">
