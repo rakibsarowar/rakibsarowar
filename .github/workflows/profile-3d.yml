@@ -22,7 +22,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: rakibsarowar
           SETTING_JSON: conf/github-profile-3d-contrib.json
           
@@ -34,4 +34,4 @@ jobs:
           target_branch: output-3d-contrib
           build_dir: profile-3d-contrib
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
