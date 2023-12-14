@@ -109,7 +109,7 @@ Welcome to my GitHub profile. Already, I've shared my info in above. Rest of tha
 
 <!-- Heading text start -->
 <div align="left">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=25&pause=&color=7F3ACE&repeat=false&random=false&width=435&lines=A+VIEW+OF+GITHUB+CONTRIBUTION%3A" alt="Let's connect svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=25&pause=&color=7F3ACE&repeat=false&random=false&width=435&lines=VIEW+OF+GITHUB+CONTRIBUTION%3A" alt="Let's connect svg" />
 </div>
 <!-- Heading text end -->
 <br />
