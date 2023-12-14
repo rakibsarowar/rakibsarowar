@@ -34,7 +34,11 @@ Welcome to my GitHub profile. I am an aspiring MERN & MEVN Stack Developer with 
 </div>
 <br>
 
-## ${{\color{DarkMagenta}\Huge{\textsf{  🌐\ LET'S\ CONNECT\ \}}}}\$
+<!-- Heading text start -->
+<div align="left">
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=25&pause=&color=7F3ACE&repeat=false&random=false&width=435&lines=LET'S+CONNECT%3A" alt="Let's connect svg" />
+</div>
+<!-- Heading text end -->
 
 <br />
 <p align="center">
