@@ -166,7 +166,7 @@ Welcome to my GitHub profile. Already, I've shared my info in above. Rest of tha
 <!-- Heading text end -->
 <br />
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 <br />
