@@ -70,9 +70,9 @@ And also, a passionate Web Developer from Gazipur, Bangladesh.
 
 Welcome to my GitHub profile. Already, I've shared my info in above. Rest of that, I love to code in my free times and have strong knowledge of JavaScript, React JS, Vue JS, Next JS, Express & MongoDB. I usually seek out new knowledge, technology and actively for developing my skills. Asiding full stack, I love play with Next Js & Redux. 
 
-🟪 👀 I’m interested in Web Development <br>
-🟪 🌱 I’m currently learning Redux JS, Next JS & Vue JS.<br>
-🟪 📫 You can reach me in LinkedIn(as same name) or in email: rakibsarowar@gmail.com
+🎯 I’m interested in Web Development <br>
+🎯 I’m currently learning Redux JS, Next JS & Vue JS.<br>
+🎯 You can reach me in LinkedIn(as same name) or in email: rakibsarowar@gmail.com
 
 <div align=center>
 <a href="https://app.daily.dev/rakibsarowar"><img src="https://api.daily.dev/devcards/a71be58fa5a64d3ca6b9d9509621f94a.png?r=zsp" width="300" alt="Md. Rakib Sarowar's Dev Card"/></a>
