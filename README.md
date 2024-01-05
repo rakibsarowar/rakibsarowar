@@ -55,7 +55,7 @@
 <!-- about repository badges end -->
 </span> </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro&size=14&duration=3000&pause=4000&color=7F3ACE&center=true&random=false&width=435&lines=I+am+an+aspiring+MERN+%26+MEVN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro&size=14&duration=3000&pause=4000&color=bedd21&center=true&random=false&width=435&lines=I+am+an+aspiring+MERN+%26+MEVN+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
