@@ -139,6 +139,7 @@ Welcome to my GitHub profile. Already, I've shared my info in above. Rest of tha
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rakibsarowar&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/> </br>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/rakibsarowar?cardType=level-alternate&theme=highcontrast&showIcons=false&preferLogin=false"/> </br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibsarowar&theme=midnight-purple&hide_border=true"/> </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibsarowar&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/> <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibsarowar&bg_color=000000&color=6014be&line=6014bd&point=ffffff&area=true&hide_border=true"/> <br>
